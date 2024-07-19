@@ -1,22 +1,23 @@
+
 komal bankar : introduction to git
 Git is a widely used version control system that tracks changes in source code during software development. It helps multiple developers collaborate on projects efficiently, maintaining a history of all modifications made to files over time.
 
 Here's a brief introduction to Git:
 1. Version Control System (VCS): Git is a distributed version control system. It allows developers to keep track of changes to code and revert back to previous versions if needed.
-2. **Key Concepts**:
-   - **Repository**: A repository (or repo) is a collection of files and their revision history.
-   - **Commit**: A commit is a snapshot of the repository at a particular point in time. It represents a set of changes made to the code.
-   - **Branch**: A branch is a parallel version of the repository. Developers create branches to work on new features or fixes without affecting the main codebase (often called the `master` or `main` branch).
-   - **Merge**: Merging combines changes from one branch (such as a feature branch) into another (such as `master`).
-   - **Pull Request**: In Git-based workflows like GitHub, a pull request (PR) is a request to merge changes from one branch into another. It's commonly used for code review before merging changes.
-3. **Basic Workflow**:
-   - **Initialize a Repository**: Create a new Git repository or clone an existing one.
-   - **Make Changes**: Modify files in your working directory.
-   - **Stage Changes**: Use `git add` to stage changes for the next commit.
-   - **Commit Changes**: Use `git commit` to save staged changes to the repository.
-   - **Push Changes**: Use `git push` to send your committed changes to a remote repository (like GitHub or GitLab).
+2. Key Concepts:
+   - Repository: A repository (or repo) is a collection of files and their revision history.
+   - Commit: A commit is a snapshot of the repository at a particular point in time. It represents a set of changes made to the code.
+   - Branch: A branch is a parallel version of the repository. Developers create branches to work on new features or fixes without affecting the main codebase (often called the `master` or `main` branch).
+   - Merge: Merging combines changes from one branch (such as a feature branch) into another (such as `master`).
+   - Pull Request: In Git-based workflows like GitHub, a pull request (PR) is a request to merge changes from one branch into another. It's commonly used for code review before merging changes.
+3. Basic Workflow:
+   - Initialize a Repository: Create a new Git repository or clone an existing one.
+   - Make Changes: Modify files in your working directory.
+   - Stage Changes: Use `git add` to stage changes for the next commit.
+   - Commit Changes: Use `git commit` to save staged changes to the repository.
+   - Push Changes: Use `git push` to send your committed changes to a remote repository (like GitHub or GitLab).
 
-4. **Common Commands**:
+4. Common Commands:
    - `git init`: Initialize a new Git repository.
    - `git clone <repository_url>`: Clone an existing repository from a remote server.
    - `git add <file>`: Stage changes for commit.
@@ -24,7 +25,7 @@ Here's a brief introduction to Git:
    - `git push`: Push committed changes to a remote repository.
    - `git pull`: Fetch and merge changes from a remote repository to your local branch.
 
-5. **Hosting Platforms**: Git works with various hosting platforms like GitHub, GitLab, and Bitbucket, which offer additional collaboration features such as issue tracking, wikis, and more.
+5. Hosting Platforms: Git works with various hosting platforms like GitHub, GitLab, and Bitbucket, which offer additional collaboration features such as issue tracking, wikis, and more.
 
 Git is powerful yet flexible, supporting various workflows from individual projects to large, distributed teams. Learning Git is essential for modern software development to manage code effectively and collaborate seamlessly with others.
 rajnandini suryawanshi: products os github
