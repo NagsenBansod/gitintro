@@ -1,2 +1,30 @@
 komal bankar : introduction to git
 rajnandini suryawanshi: products os github
+
+GitHub offers a variety of products and services designed to support software development workflows, collaboration, and project management. Here are some key products and features offered by GitHub:
+
+GitHub Repository: The core functionality of GitHub revolves around repositories, which are where your code lives. Each repository can contain code, issues, pull requests, and other project resources.
+
+GitHub Actions: This is a powerful workflow automation tool provided by GitHub. It allows you to automate your software development workflows directly within your repository. Actions can be triggered by events like commits, pull requests, or other custom events.
+
+GitHub Pages: GitHub Pages allows you to host static websites directly from your GitHub repository. It's often used for project documentation, personal websites, or any static content.
+
+GitHub Gist: Gists are a way to share snippets or small portions of code or text. They are stored in Git repositories, making them easy to fork, share, and embed in other websites or documents.
+
+GitHub CLI: The GitHub Command Line Interface (CLI) allows you to interact with GitHub from your terminal. It provides commands to create repositories, manage issues, and more, directly from the command line.
+
+GitHub Discussions: This feature allows project communities to engage in discussions around topics related to the project. It can be used for Q&A, ideation, or general community interaction.
+
+GitHub Codespaces: Codespaces provide cloud-hosted development environments that can be spun up directly within GitHub repositories. This allows developers to work on projects without needing to set up their local development environment.
+
+GitHub Marketplace: The GitHub Marketplace is a curated collection of apps and integrations that extend GitHub's functionality. These apps can help with code quality, security, project management, and more.
+
+GitHub Enterprise: GitHub Enterprise is the self-hosted version of GitHub, designed for businesses and organizations that want to manage their own instance of GitHub behind their firewall.
+
+GitHub Security Features: GitHub provides various security features such as code scanning, dependency graph, security advisories, and secret scanning to help developers identify and remediate security vulnerabilities in their code.
+
+These products and features collectively support a wide range of software development needs, from version control and collaboration to automation and security.
+
+
+
+
