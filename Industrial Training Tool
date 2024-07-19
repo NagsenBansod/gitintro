@@ -57,6 +57,42 @@ These products and features collectively support a wide range of software develo
 
 komal bankar : introduction to git
 rajnandini suryawanshi: products os github
+
+Pushkar Bhangale: contribute to projects through forking
+
+1. Fork the Repository
+Find the repo you want to contribute to on GitHub.
+Click "Fork" at the top right to copy it to your account.
+2. Clone the Forked Repo
+Clone it to your computer. Open your terminal and run:
+   git clone https://github.com/YOUR-USERNAME/FORKED-REPO.git
+Replace YOUR-USERNAME and FORKED-REPO with your info.
+3. Create a Branch
+Go to the repo folder:
+   cd FORKED-REPO
+Create a new branch for your changes:
+   git checkout -b my-branch
+4. Make Changes
+Edit the code.
+Save and commit your changes:
+   git add .
+   git commit -m "Description of changes"
+5. Push Changes to GitHub
+Push your changes to your fork:
+   git push origin my-branch
+6. Create a Pull Request
+Go to your forked repo on GitHub.
+Click "Compare & pull request".
+Describe your changes and submit.
+7. Respond to Feedback
+Maintain contact: Be ready to make further changes if asked.
+
+
+
+
+
+
+
 tanvi bhosale: overview and installation
 ## Overview of Git
 
@@ -220,7 +256,8 @@ If you prefer using the command line, you can follow these steps:
 
 prasann autade:configure git
 shraddha jangam:github flow and collaboration on projects
-Pushkar Bhangale:contribute to projects to forking
+Pushkar Bhangale:contribute to projects through forking
+
 
 ritesh deshmukh:communicating on github
 samruddhi gore:version control system
