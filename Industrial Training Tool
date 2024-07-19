@@ -183,6 +183,42 @@ Git is a powerful tool that can greatly enhance your workflow and collaboration 
 sakshi naik:basic git commands
 rutuja more: creating repository
 tithee gadekar:creating git folder
+Creating a folder in a GitHub repository is straightforward. Here's a step-by-step guide to creating a folder directly on GitHub:
+
+Log in to GitHub:
+Go to GitHub and log in with your credentials.
+
+Navigate to Your Repository:
+Click on the repository where you want to create a new folder.
+
+Create a New File:
+
+Click on the Add file button, which you can find towards the top right of your repository file list.
+Select Create new file from the dropdown menu.
+Name Your Folder:
+
+In the Name your file... input box, type the name of your new folder followed by a / and then the name of the file you want to create within the folder. For example, if you want to create a folder named new-folder and a file named README.md inside it, you would type new-folder/README.md.
+Add Content to the File:
+
+You can optionally add some content to the file. GitHub requires that a new file has some content before it can be created, even if it's just a placeholder line.
+Commit the New File:
+
+Scroll down to the commit message section. Enter a commit message describing the new folder and file.
+Click the Commit new file button to save your changes.
+Your new folder will now be created in the repository with the file you specified. If you need to create additional files in the same folder, repeat steps 3-6, specifying the same folder name followed by the new file name.
+
+Using Git Command Line
+If you prefer using the command line, you can follow these steps:
+
+
+
+
+
+
+
+
+
+
 
 prasann autade:configure git
 shraddha jangam:github flow and collaboration on projects
